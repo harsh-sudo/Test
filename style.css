@@ -12,4 +12,25 @@ html , body{
     height: 100%;
     width: 100%;
 }
+/* big text of sheryians */
+#Sheryianstxt{
+    height: 35vh;
+    width: 100vw;
+    font-size: 100px;
+    text-align: center;
+}
 
+/*Intailising bouncingBall div*/
+#bouncingBall{
+    height: 35vh;
+    width: 100vw;
+    background-color: rgb(255, 230, 0);
+}
+
+/*making ball for bouncingBall */
+#ball{
+    height: 19.5vh;
+    width: 10vw;
+    border-radius: 100vh;
+    background-color: salmon;
+}
